@@ -1,23 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
+import RecipePreview from './components/RecipePreview';
+import recipes from './recipes.json'
 
 function App() {
+
+  const recipesList = recipes.map(recipe => 
+     <RecipePreview  
+      key={recipe.id}  
+      name={recipe.name} 
+      img={recipe.img}
+      short_description={recipe.short_description}
+    />
+  )
+  
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>My recipes</h1>
+      <div className='recipesList'>
+        {recipesList}
+      </div>
     </div>
   );
 }
