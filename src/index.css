@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.recipesList {
+  margin: 5rem;
+  display: flex;
+  flex-wrap:  wrap;
+  justify-content : center;
+  align-content:  center;
+}
+
+.RecipePreview > ul > p {
+  display:inline-block;
+}
+
+.RecipePreview {
+  max-width: 33%;
+}
+
+.RecipePreview > ul > img {
+  max-width: 100%;
+}
