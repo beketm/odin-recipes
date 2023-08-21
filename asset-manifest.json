@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/odin-recipes/static/css/main.c456ff8a.css",
+    "main.js": "/odin-recipes/static/js/main.74292141.js",
+    "static/js/787.3faa97de.chunk.js": "/odin-recipes/static/js/787.3faa97de.chunk.js",
+    "static/media/pasta.jpg": "/odin-recipes/static/media/pasta.2567b2124e5c33c1d396.jpg",
+    "static/media/pizza.jpg": "/odin-recipes/static/media/pizza.06aa14cb8966c8896da4.jpg",
+    "static/media/cookies.jpg": "/odin-recipes/static/media/cookies.bb6ab2096f3946e449b3.jpg",
+    "static/media/stirfry.jpg": "/odin-recipes/static/media/stirfry.f420d50105718788240a.jpg",
+    "static/media/sushi.jpg": "/odin-recipes/static/media/sushi.fb228fde7bdab883df38.jpg",
+    "static/media/tacos.jpg": "/odin-recipes/static/media/tacos.88a1d3c9620840efe77f.jpg",
+    "index.html": "/odin-recipes/index.html",
+    "main.c456ff8a.css.map": "/odin-recipes/static/css/main.c456ff8a.css.map",
+    "main.74292141.js.map": "/odin-recipes/static/js/main.74292141.js.map",
+    "787.3faa97de.chunk.js.map": "/odin-recipes/static/js/787.3faa97de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c456ff8a.css",
+    "static/js/main.74292141.js"
+  ]
+}
