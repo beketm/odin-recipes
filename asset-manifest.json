@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.a4174d4c.css",
-    "main.js": "./static/js/main.bd80748e.js",
-    "static/js/787.3faa97de.chunk.js": "./static/js/787.3faa97de.chunk.js",
-    "static/media/pasta.jpg": "./static/media/pasta.2567b2124e5c33c1d396.jpg",
-    "static/media/pizza.jpg": "./static/media/pizza.06aa14cb8966c8896da4.jpg",
-    "static/media/cookies.jpg": "./static/media/cookies.bb6ab2096f3946e449b3.jpg",
-    "static/media/stirfry.jpg": "./static/media/stirfry.f420d50105718788240a.jpg",
-    "static/media/sushi.jpg": "./static/media/sushi.fb228fde7bdab883df38.jpg",
-    "static/media/tacos.jpg": "./static/media/tacos.88a1d3c9620840efe77f.jpg",
-    "index.html": "./index.html",
-    "main.a4174d4c.css.map": "./static/css/main.a4174d4c.css.map",
-    "main.bd80748e.js.map": "./static/js/main.bd80748e.js.map",
-    "787.3faa97de.chunk.js.map": "./static/js/787.3faa97de.chunk.js.map"
+    "main.css": "/odin-recipes/static/css/main.a4174d4c.css",
+    "main.js": "/odin-recipes/static/js/main.38ee6ab8.js",
+    "static/js/787.3faa97de.chunk.js": "/odin-recipes/static/js/787.3faa97de.chunk.js",
+    "static/media/pasta.jpg": "/odin-recipes/static/media/pasta.2567b2124e5c33c1d396.jpg",
+    "static/media/pizza.jpg": "/odin-recipes/static/media/pizza.06aa14cb8966c8896da4.jpg",
+    "static/media/cookies.jpg": "/odin-recipes/static/media/cookies.bb6ab2096f3946e449b3.jpg",
+    "static/media/stirfry.jpg": "/odin-recipes/static/media/stirfry.f420d50105718788240a.jpg",
+    "static/media/sushi.jpg": "/odin-recipes/static/media/sushi.fb228fde7bdab883df38.jpg",
+    "static/media/tacos.jpg": "/odin-recipes/static/media/tacos.88a1d3c9620840efe77f.jpg",
+    "index.html": "/odin-recipes/index.html",
+    "main.a4174d4c.css.map": "/odin-recipes/static/css/main.a4174d4c.css.map",
+    "main.38ee6ab8.js.map": "/odin-recipes/static/js/main.38ee6ab8.js.map",
+    "787.3faa97de.chunk.js.map": "/odin-recipes/static/js/787.3faa97de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4174d4c.css",
-    "static/js/main.bd80748e.js"
+    "static/js/main.38ee6ab8.js"
   ]
 }
