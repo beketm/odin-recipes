@@ -10,6 +10,8 @@ function App() {
       name={recipe.name} 
       img={recipe.img}
       short_description={recipe.short_description}
+      ingredients = {recipe.ingredients}
+      instructions = {recipe.instructions}
     />
   )
   
