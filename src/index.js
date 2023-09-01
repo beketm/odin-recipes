@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {
   createHashRouter,
-  // createBrowserRouter,
+  createBrowserRouter,
   RouterProvider,
   // Route,
   Link,
