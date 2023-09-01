@@ -4,29 +4,21 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {
-  createBrowserRouter,
+  createHashRouter,
+  // createBrowserRouter,
   RouterProvider,
   // Route,
   Link,
 } from "react-router-dom";
 import FullRecipe from './pages/FullRecipe';
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: (
-      <div>
-        <h1>Hello World</h1>
-        <Link to="about">About Us</Link>
-      </div>
-    ),
-  },
+const router = createHashRouter([
   {
     path: "/full-recipe",
     element: <FullRecipe />,
   },
   {
-    path: "odin-recipes",
+    path: "/odin-recipes",
     element: <App />,
   },
 ]);
